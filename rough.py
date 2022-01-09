@@ -6,7 +6,7 @@ from selenium import webdriver
 import time
 
 # API KEY PushBullet (https://www.pushbullet.com/)
-API_KEY = "o.3UMjf38cBOSs4ugzmeYC0BRqkbHyGZpg"
+API_KEY = "Your Own API"
 
 # automatically on whatsapp.apk
 
